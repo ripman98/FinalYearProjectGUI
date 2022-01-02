@@ -1,0 +1,93 @@
+name: flutter_bloc
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/loginheader.png
+    - assets/images/apple.png
+    - assets/images/google.png
+    - assets/images/window.png
+    - assets/city/city_01.png
+    - assets/city/city_02.png
+    - assets/city/city_03.png
+    - assets/city/city_04.png
+    - assets/city/city_05.png
+    - assets/city/city_06.png
+    - assets/city/city_07.png
+    - assets/city/city_08.png
+    - assets/city/city_09.png
+    - assets/street/street_01.png
+    - assets/street/street_02.png
+    - assets/street/street_03.png
+    - assets/street/street_04.png
+    - assets/street/street_05.png
+    - assets/street/street_06.png
+    - assets/street/street_07.png
+    - assets/street/street_08.png
+    - assets/street/street_09.png
+    - assets/waterfall/waterfall_01.png
+    - assets/waterfall/waterfall_02.png
+    - assets/waterfall/waterfall_03.png
+    - assets/waterfall/waterfall_04.png
+    - assets/waterfall/waterfall_05.png
+    - assets/waterfall/waterfall_06.png
+    - assets/waterfall/waterfall_07.png
+    - assets/waterfall/waterfall_08.png
+    - assets/waterfall/waterfall_09.png
+    - assets/eiffieltower/eiffieltower_01.png
+    - assets/eiffieltower/eiffieltower_02.png
+    - assets/eiffieltower/eiffieltower_03.png
+    - assets/eiffieltower/eiffieltower_04.png
+    - assets/eiffieltower/eiffieltower_05.png
+    - assets/eiffieltower/eiffieltower_06.png
+    - assets/eiffieltower/eiffieltower_07.png
+    - assets/eiffieltower/eiffieltower_08.png
+    - assets/eiffieltower/eiffieltower_09.png
+    
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
